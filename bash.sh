@@ -6,3 +6,4 @@ do
    let COUNTER=$COUNTER+1 
 done
 # Script updated in feature branch
+# Changes for pull request review
